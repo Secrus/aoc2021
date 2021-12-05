@@ -1,15 +1,15 @@
-[Advent of Code 2021](https://adventofcode.com) solutions by [Secrus][secrus]
+[Advent of Code 2021](https://adventofcode.com) solutions
 ========================
 
 I'm using various languages to provide solutions.
 
 | Day | Name | Python | Rust |
 |:---:|:---|:---:|:---:|
-| 01 | [Sonar Sweep][day01] | [:heavy_check_mark:](solutions/day01/main.rb) |   |
-| 02 | [Dive!][day02] | [:heavy_check_mark:](solutions/day02/main.rb) |   |
-| 03 | [Binary Diagnostic][day03] | [:heavy_check_mark:](solutions/day03/main.rb) |   |
-| 04 | [Giant Squid][day04] | [:heavy_check_mark:](solutions/day04/main.rb) |   |
-| 05 | [Hydrothermal Venture][day05] | [:heavy_check_mark:](solutions/day05/main.rb) |   |
+| 01 | [Sonar Sweep][day01] | [:heavy_check_mark:](solutions/day01/main.py) |   |
+| 02 | [Dive!][day02] | [:heavy_check_mark:](solutions/day02/main.py) |   |
+| 03 | [Binary Diagnostic][day03] | [:heavy_check_mark:](solutions/day03/main.py) |   |
+| 04 | [Giant Squid][day04] | [:heavy_check_mark:](solutions/day04/main.py) |   |
+| 05 | [Hydrothermal Venture][day05] | [:heavy_check_mark:](solutions/day05/main.py) |   |
 
 [day01]: https://adventofcode.com/2021/day/1
 [day02]: https://adventofcode.com/2021/day/2
@@ -36,5 +36,3 @@ I'm using various languages to provide solutions.
 [day23]: https://adventofcode.com/2021/day/23
 [day24]: https://adventofcode.com/2021/day/24
 [day25]: https://adventofcode.com/2021/day/25
-
-[secrus]: https://github.com/Secrus
