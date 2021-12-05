@@ -4,7 +4,7 @@ from collections import Counter
 def vectored_range(a, b):
     return range(a, b + 1) if a <= b else range(a, b - 1, -1)
 
-    
+
 def parse(transition: list[str]):
     x1, rest = transition.split(",", 1)
     y1, rest = rest.split("->")
