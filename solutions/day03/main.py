@@ -1,6 +1,6 @@
 import operator
 
-with open("./input_3.txt", "r") as input_file:
+with open("input.txt", "r") as input_file:
     lines = list(map(lambda x: x.strip(), input_file.readlines()))
 
 transpose = lambda x: ["".join(s) for s in zip(*x)]

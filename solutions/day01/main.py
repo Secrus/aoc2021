@@ -1,6 +1,6 @@
 import itertools
 
-with open("./input_1.txt", "r") as input_file:
+with open("input.txt", "r") as input_file:
     lines = list(map(int, input_file.readlines()))
 
 

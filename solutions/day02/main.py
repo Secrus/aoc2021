@@ -1,6 +1,6 @@
 
 
-with open("./input_2.txt", "r") as input_file:
+with open("input.txt", "r") as input_file:
     lines = map(lambda x: tuple(x.split()), input_file.readlines())
 
 def solution(lines):

@@ -24,7 +24,7 @@ def parse(transition: list[str]):
     return straight, diagonal
 
 
-with open("./input_5.txt", "r") as input_file:
+with open("input.txt", "r") as input_file:
     transitions = list(map(lambda x: x.strip(), input_file.readlines()))
 
 straight = []

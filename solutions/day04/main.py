@@ -22,7 +22,7 @@ class Board:
 
 
 def calculate():
-    with open("./input_4.txt", "r") as input_file:
+    with open("input.txt", "r") as input_file:
         calls, *matrixes = input_file.read().split("\n\n")
 
     boards = [Board(s) for s in matrixes]
