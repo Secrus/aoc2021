@@ -1,7 +1,6 @@
 [Advent of Code 2021](https://adventofcode.com) solutions
 ========================
 
-I'm using various languages to provide solutions.
 
 | Day | Name | Python | Rust |
 |:---:|:---|:---:|:---:|
