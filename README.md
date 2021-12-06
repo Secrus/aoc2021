@@ -10,6 +10,7 @@ I'm using various languages to provide solutions.
 | 03 | [Binary Diagnostic][day03] | [:heavy_check_mark:](solutions/day03/main.py) |   |
 | 04 | [Giant Squid][day04] | [:heavy_check_mark:](solutions/day04/main.py) |   |
 | 05 | [Hydrothermal Venture][day05] | [:heavy_check_mark:](solutions/day05/main.py) |   |
+| 06 | [Lanternfish][day06] | [:heavy_check_mark:](solutions/day06/main.py) |   |
 
 [day01]: https://adventofcode.com/2021/day/1
 [day02]: https://adventofcode.com/2021/day/2
